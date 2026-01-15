@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "YouTrack RTL Sidebar",
+  "version": "1.0.0",
+  "content_scripts": [
+    {
+      "matches": ["https://youtrack.jetbrains.com/*"],
+      "css": ["styles.css"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+[class^="contentWrapper"] {
+  flex-direction: row-reverse !important;
+}
+
+[data-test="fields-sidebar"] {
+  margin-left: 0 !important;
+  margin-right: 36px !important;
+}
+
+[class^="sidebarHeaderWithoutBorder"] {
+  justify-content: flex-start !important;
+  margin-left: 0 !important;
+}
