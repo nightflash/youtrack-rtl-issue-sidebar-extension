@@ -1,3 +1,8 @@
+# YouTrack Left Issue Sidebar Extension
+
+Simple browser extension for YouTrack that moves the **issue fields sidebar**  
+from the right side to the left on the **issue page / issue view**.
+
 # Installation
 
 This extension is configured to work with **youtrack.jetbrains.com**.  
